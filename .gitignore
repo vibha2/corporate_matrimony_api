@@ -1,0 +1,50 @@
+## ASP.NET Core ##
+# Build Folders
+bin/
+obj/
+out/
+
+# ASP.NET Core temporary files
+.vs2019/
+.vs2017/
+.vscode/
+.idea/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+.vs
+.vsidex
+
+# ASP.NET Core Logs
+log/
+
+# ASP.NET Core test results
+TestResults/
+
+# Azure Functions
+local.settings.json
+
+# User-specific build files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# NPM packages
+node_modules/
+
+# ASP.NET Core web.config file (used for IIS deployments)
+web.config
+
+# .NET Core / .NET 5+ files
+project.lock.json
+project.fragment.lock.json
+
+# .NET 6+ / .NET 7+ restore files (use `dotnet restore`)
+.nuget/
+
+# .NET SDK and runtime version-specific folders
+.packages/
